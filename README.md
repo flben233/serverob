@@ -11,7 +11,11 @@
 
 ## 使用说明
 
-首先，你需要填写conf.properties这个配置文件，该文件会在插件第一次运行时自动生成，位于 (mirai主目录)/config/org.shirakawatyu.serverob/
+首先，你需要填写conf.properties这个配置文件，该文件会在插件第一次运行时自动生成，位于 
+```
+(mirai主目录)/config/org.shirakawatyu.serverob/
+```
+填写完成后重启机器人
 
 ## 插件下载
 
