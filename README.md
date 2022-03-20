@@ -1,4 +1,4 @@
-# serverob
+# ServerOb
 一个mirai插件，用于监控目标服务器的端口的状态
 
 ## 内容列表
